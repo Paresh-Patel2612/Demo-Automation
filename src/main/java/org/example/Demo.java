@@ -36,6 +36,6 @@ public class Demo {
 
         //driver.findElement(By.xpath("//div[@class='user-wrapper']")).click();
 
-        //driver.quit();
+        driver.quit();
     }
 }
